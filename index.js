@@ -13,7 +13,7 @@
 // console.log("ad"==="ad");
 
 
-// let age = 20
+// let age = 37
 // let myName = "Luda"
 // let horror = "Ужас"
 // let actionMovie = "Боевик"
